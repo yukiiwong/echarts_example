@@ -1,4 +1,4 @@
-yangzhou({"type":"FeatureCollection", "features": [
+{"type":"FeatureCollection", "features": [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[119.3928726,32.3681086]},"properties":{"y":32.3681086,"x":119.3928726,"osmid":269646622,"highway":"","ref":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[119.3917118,32.3674043]},"properties":{"y":32.3674043,"x":119.3917118,"osmid":269646625,"highway":"","ref":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[119.3923597,32.3618057]},"properties":{"y":32.3618057,"x":119.3923597,"osmid":269646633,"highway":"","ref":""}},
@@ -5168,4 +5168,4 @@ yangzhou({"type":"FeatureCollection", "features": [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[119.4690852,32.3723576]},"properties":{"y":32.3723576,"x":119.4690852,"osmid":7827621864,"highway":"","ref":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[119.710604,32.5609002]},"properties":{"y":32.5609002,"x":119.710604,"osmid":7883460853,"highway":"","ref":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[119.7600447,32.3441385]},"properties":{"y":32.3441385,"x":119.7600447,"osmid":7911840294,"highway":"","ref":""}}
-]})
+]}
